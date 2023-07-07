@@ -36,7 +36,7 @@
 
 ## 🚀 Live Demo
 
-- You can see the demo [Here](https://albertkantwi.github.io/Portfolio_Project/)
+- You can see the demo [Here](https://albertkantwi.github.io/First-Capstone-Project/)
 
 ## Key Features
 
@@ -157,7 +157,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [Isuues Pages]()
+Feel free to check the [Isuues Pages](https://github.com/albertkantwi/First-Capstone-Project/issues)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -185,7 +185,7 @@ I would like to thank Microverse for the immense support.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/albertkantwi/Portfolio_Project/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/albertkantwi/First-Capstone-Project/blob/main/LICENSE) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
